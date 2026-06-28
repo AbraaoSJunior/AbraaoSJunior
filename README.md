@@ -11,7 +11,7 @@
 - Git / GitHub
 
 ## Contato
-<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/abra%C3%A3o-junior-94211a167//" target="_blank">
+<a href="https://www.linkedin.com/in/abraão-junior-94211a167" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35"/>
 </a>
 
